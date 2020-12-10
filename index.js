@@ -16,7 +16,7 @@ const CONSTANTS = {
     MISSED: isIOS ? 2 : 6  }
 };
 
-export { CONSTANTS };
+export { CONSTANTS, emit };
 
 class RNCallKeep {
 
